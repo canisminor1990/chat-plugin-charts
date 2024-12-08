@@ -60,7 +60,7 @@
     "dayjs": "^1",
     "next": "13.4.7",
     "react": "^18",
-    "react-dom": "^18",
+    "react-dom": "^19.0.0",
     "react-layout-kit": "^1"
   },
   "devDependencies": {
