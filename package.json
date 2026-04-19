@@ -80,7 +80,7 @@
     "remark-cli": "^11",
     "semantic-release": "^21",
     "stylelint": "^15",
-    "typescript": "^5",
+    "typescript": "^6.0.0",
     "vitest": "latest"
   },
   "peerDependencies": {
